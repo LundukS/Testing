@@ -1,0 +1,6 @@
+
+This is a dev text file
+changing to rebase
+adding line 3
+adding line 4
+END
